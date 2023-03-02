@@ -2,9 +2,10 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Create a template
 
-Documents are **groups of pages** connected through:
+![image](https://user-images.githubusercontent.com/116861648/222393348-f8df27db-cea6-412b-b5e3-a56dc26b59fe.png)
+
 
 - a **sidebar**
 - **previous/next navigation**
